@@ -35,7 +35,7 @@ require Exporter;
 @ISA = 'Exporter';
 @EXPORT_OK = qw( vector list deque queue priority_queue stack tree );
 %EXPORT_TAGS = ( all => [qw( vector list deque queue priority_queue stack tree )] );
-$VERSION = '0.36';
+$VERSION = '0.37';
 # ----------------------------------------------------------------------------------------------------
 {
 	package Class::STL::Containers;

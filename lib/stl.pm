@@ -67,6 +67,5 @@ use Class::STL::Utilities qw(:all);
 use Class::STL::Algorithms qw(:all);
 use Class::STL::Iterators qw(:all);
 $VERSION = $Class::STL::Containers::VERSION;
-$BUILD = $Class::STL::Containers::BUILD;
 # ----------------------------------------------------------------------------------------------------
 1;
